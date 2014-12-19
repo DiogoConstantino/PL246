@@ -24,6 +24,7 @@ Os artigos 1.º, 2.º, 3.º e 4.º da Lei n.º 62/98, de 1 de setembro, alterada
 […]
 1 - […].
 2 - O disposto na presente lei não se aplica aos computadores, aos seus programas, nem às bases de dados constituídas por meios informáticos.
+
 Artigo 2.º
 […]
 Com vista a beneficiar os autores, os artistas intérpretes ou executantes, os editores e os produtores fonográficos e videográficos, uma quantia é incluída no preço de venda ou disponibilização:
@@ -62,7 +63,14 @@ utilizados para garantia da acessibilidade por pessoas com deficiência;
 f) Os cidadãos nacionais, ou estrangeiros, que apresentem à Inspecção Geral de
 Actividades Culturais, provas de regulares depósitos de obras feitos na
 Inspecção Geral de Actividades Culturais, ou de quaisquer entidades de gestão
-colectiva de direitos de autor e direitos conexos.
+colectiva de direitos de autor e direitos conexos;
+g) - Estão isentos todos os requerem junto da Inspecção Geral de Actividades
+Culturais, a isenção pelo motivo de renunciarem ao direito de fazer cópias para
+fins privados, em condições que de acordo com a Lei exijam a compensação
+equitativa, pelo motivo de não ter ocorrido:
+ 1. compensação de outra forma;
+ 2. dispensa de compensação pelo detentor dos direitos;
+
 
 2 - Para os efeitos do disposto no número anterior, as pessoas singulares ou
 coletivas adquirentes devem, requerer junto da Inspecção Geral de Actividades
