@@ -42,12 +42,23 @@ comprovadamente.
 4 - No preço da primeira venda ou disponibilização em território nacional e antes da aplicação do IVA em cada um dos aparelhos, dispositivos e suportes analógicos e digitais que permitem a reprodução e armazenagem de obras, é incluído um valor compensatório nos termos da tabela anexa à presente lei e da qual faz parte integrante.
 Artigo 4.º
 […]
-1 - Estão isentos do pagamento das compensações previstas na presente lei os equipamentos e suportes adquiridos por pessoas singulares ou pessoas coletivas, públicas ou privadas, nas seguintes condições:
-a) Cujo objeto de atividade seja a comunicação audiovisual ou produção de fonogramas e de videogramas, exclusivamente para as suas próprias produções;
-b) Cujo objeto de atividade seja o apoio a pessoas com deficiência;
-c) Cuja atividade principal seja a salvaguarda do património cultural móvel;
-d) Suportes especialmente destinados a fixação de imagens ou outro tipo de obras para uso exclusivo no âmbito da atividade profissional do respetivo autor, designadamente na atividade de fotógrafo, designer, arquiteto ou engenheiro, assim como profissões artísticas devidamente enquadradas pelo código de atividade económica;
-e) Aparelhos, dispositivos ou suportes destinados exclusivamente para fins clínicos, fins de investigação científica e para as missões públicas da defesa, da justiça e das áreas da segurança interna, bem como dos utilizados para garantia da acessibilidade por pessoas com deficiência.
+1 - Estão isentos do pagamento das compensações previstas na presente lei os
+equipamentos e suportes adquiridos por todas as pessoas coletivas de Direito
+Privado, todas as pessoas de Direito Público. Estão também isentas as pessoas
+singulares, nas seguintes condições:
+a) Cujo objeto de atividade seja a comunicação audiovisual ou produção de
+fonogramas e de videogramas, exclusivamente para as suas próprias produções;
+b) Para fins profissionais, quando se destinar exclusivamente ao armazenamento
+de dados próprios.
+d) Suportes especialmente destinados a fixação de imagens ou outro tipo de obras
+para uso exclusivo no âmbito da atividade profissional do respetivo autor,
+designadamente na atividade de fotógrafo, designer, arquitetura, engenharia,
+técnicos, assim como profissões artísticas devidamente enquadradas pelo código de
+atividade económica;
+e) Aparelhos, dispositivos ou suportes destinados exclusivamente para fins
+clínicos, fins de investigação científica e para as missões públicas da
+defesa, da justiça e das áreas da segurança interna, bem como dos
+utilizados para garantia da acessibilidade por pessoas com deficiência.
 
 2 - Para os efeitos do disposto no número anterior, as pessoas singulares ou coletivas adquirentes devem:
 a) Requerer junto da pessoa coletiva responsável pela cobrança e gestão das quantias previstas na presente lei, previamente à aquisição dos equipamentos e suportes, a emissão de declaração de onde conste que a utilização dos mesmos se integra numa das situações de isenção, indicando e comprovando o respetivo objeto de atividade;
