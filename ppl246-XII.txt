@@ -60,10 +60,23 @@ clínicos, fins de investigação científica e para as missões públicas da
 defesa, da justiça e das áreas da segurança interna, bem como dos
 utilizados para garantia da acessibilidade por pessoas com deficiência.
 
-2 - Para os efeitos do disposto no número anterior, as pessoas singulares ou coletivas adquirentes devem:
-a) Requerer junto da pessoa coletiva responsável pela cobrança e gestão das quantias previstas na presente lei, previamente à aquisição dos equipamentos e suportes, a emissão de declaração de onde conste que a utilização dos mesmos se integra numa das situações de isenção, indicando e comprovando o respetivo objeto de atividade;
-b) Apresentar, no ato da compra dos equipamentos e suportes, a declaração referida na alínea anterior.
-3 - Estão também isentas do pagamento das compensações previstas na presente lei as pessoas coletivas que utilizem os equipamentos e suportes de armazenamento previstos nas alíneas p) e q) do n.º 3 da tabela anexa à presente lei sem os disponibilizarem a pessoas singulares para uso individual, desde que os equipamentos e suportes sejam parte integrante de sistemas de processos automatizados de gestão documental e de dados que não incluam reproduções de obras protegidas.
+2 - Para os efeitos do disposto no número anterior, as pessoas singulares ou
+coletivas adquirentes devem, requerer junto da Inspecção Geral de Actividades
+Culturais, através de plataforma electrónica disponível públicamente (na "World
+Wide Web") a situação de isenção.
+
+3 - A Inspecção Geral de Actividades Culturais, deve disponibilizar uma
+plataforma electrónica na "World Wide Web" para:
+ a) o efeito referido no ponto 2 do mesmo artigo;
+ b) a verificação da situação da isenção dos compradores, por parte dos
+ comerciantes. Garantindo a protecção dos dados pessoais do comprador;
+ c) o registo de compras com isenção por parte de um cidadão isento por parte
+ dos comerciantes, incluindo para o efeito, o preço de venda ao público e
+ excluindo os dados pessoais do comprador;
+ d) a consulta por parte da pessoa colectiva colectora e gestora da compensação,
+ das transacções isentas registadas pelos comerciantes;
+
+4 - Estão também isentas do pagamento das compensações previstas na presente lei as pessoas coletivas que utilizem os equipamentos e suportes de armazenamento previstos nas alíneas p) e q) do n.º 3 da tabela anexa à presente lei sem os disponibilizarem a pessoas singulares para uso individual, desde que os equipamentos e suportes sejam parte integrante de sistemas de processos automatizados de gestão documental e de dados que não incluam reproduções de obras protegidas.
 4 - Estão ainda isentos do pagamento das compensações equitativas os aparelhos, dispositivos e suportes destinados à exportação.»
 Artigo 3.º
 Aditamento à Lei n.º 62/98, de 1 de setembro
