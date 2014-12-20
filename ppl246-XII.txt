@@ -34,8 +34,16 @@ Artigo 3.º
 Compensação equitativa
 1 - A quantia referida no artigo anterior tem a natureza de compensação
 equitativa, visando compensar adequadamente os titulares de direitos dos danos
-patrimoniais sofridos com a prática da cópia privada, quando eles existirem
-comprovadamente.
+patrimoniais sofridos com a prática da cópia privada. Quando as seguintes
+condições forem todas satisfeitas:
+ a) for efetivamente possível técnica e legalmente possível criar a cópia, quer
+ por ser executada por pessoa singular e por a obra não conter Medidas
+ Eficazes de Protecção, que impeçam, ou restrijam a cópia;
+ b) os danos existirem comprovadamente, com base estudo que os identifique
+ caracterize quantifique;
+ c) os benefícios da cópia forem identificados, caracterizados e quantifique
+ os benefícios;
+ d) o resultado da diferença entre os benefícios e prejuízos, for um prejuízo.
 2 - […].
 3 - […].
 
@@ -74,7 +82,7 @@ equitativa, pelo motivo de não ter ocorrido:
 
 2 - Para os efeitos do disposto no número anterior, as pessoas singulares ou
 coletivas adquirentes devem, requerer junto da Inspecção Geral de Actividades
-Culturais, através de plataforma electrónica disponível públicamente (na "World
+Culturais, através de plataforma electrónica disponível publicamente (na "World
 Wide Web") a situação de isenção.
 
 3 - A Inspecção Geral de Actividades Culturais, deve disponibilizar uma
