@@ -80,6 +80,7 @@ Wide Web") a situação de isenção.
 3 - A Inspecção Geral de Actividades Culturais, deve disponibilizar uma
 plataforma electrónica na "World Wide Web" para:
  a) o efeito referido no ponto 2 do mesmo artigo;
+ b) o efeito da isenção prevista na alinea "a" do ponto 1 do artigo 4º;
  b) a verificação da situação da isenção dos compradores, por parte dos
  comerciantes. Garantindo a protecção dos dados pessoais do comprador;
  c) o registo de compras com isenção por parte de um cidadão isento por parte
