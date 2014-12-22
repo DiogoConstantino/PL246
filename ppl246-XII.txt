@@ -91,10 +91,13 @@ condições forem todas satisfeitas:
 
 Artigo 4.º
 […]
-1 - Estão isentos do pagamento das compensações previstas na presente lei os
-equipamentos e suportes adquiridos por todas as pessoas coletivas de Direito
-Privado, todas as pessoas de Direito Público. Estão também isentas as pessoas
-singulares, nas seguintes condições:
+1 - Não devem pagamento das compensações previstas na presente lei os
+  equipamentos e suportes adquiridos por todas as pessoas coletivas de Direito
+  Privado por não poderem ser beneficiários de acordo com o Código de Direitos
+  de Autor E Direitos Conexos.
+2 - Não devem qualquer compensação todas as pessoas de Direito Público.
+3 - Estão isentas do pagamento da compensação equitativa, as pessoas singulares,
+  nas seguintes condições:
 a) Cujo objeto de atividade seja a comunicação audiovisual ou produção de
 fonogramas e de videogramas, exclusivamente para as suas próprias produções;
 b) Para fins profissionais, quando se destinar exclusivamente ao armazenamento
@@ -119,18 +122,17 @@ equitativa, pelo motivo de não ter ocorrido:
  1. compensação de outra forma;
  2. dispensa de compensação pelo detentor dos direitos;
 
-
-2 - Para os efeitos do disposto no número anterior, as pessoas coletivas
+4 - Para os efeitos do disposto no número anterior, as pessoas coletivas
 não necessitam de requerer qualquer documento, ou comprovativo de isenção,
 sendo suficiente, qualquer documento que comprove que se trata de uma pessoa
 coletiva. As pessoas singulares adquirentes devem, requerer junto da Inspecção
 Geral de Actividades Culturais, através de plataforma electrónica disponível
 publicamente (na "World Wide Web") a situação de isenção.
 
-3 - A Inspecção Geral de Actividades Culturais, deve disponibilizar uma
+5 - A Inspecção Geral de Actividades Culturais, deve disponibilizar uma
 plataforma electrónica na "World Wide Web" para:
  a) o efeito referido no ponto 2 do mesmo artigo;
- b) o efeito da isenção prevista na alinea "a" do ponto 1 do artigo 4º;
+ b) o efeito da isenção prevista na alinea "a" do ponto 3 do artigo 4º;
  b) a verificação da situação da isenção dos compradores, por parte dos
  comerciantes. Garantindo a protecção dos dados pessoais do comprador;
  c) o registo de compras com isenção por parte de um cidadão isento por parte
@@ -139,8 +141,7 @@ plataforma electrónica na "World Wide Web" para:
  d) a consulta por parte da pessoa colectiva colectora e gestora da compensação,
  das transacções isentas registadas pelos comerciantes;
 
-4 - Estão também isentas do pagamento das compensações previstas na presente lei as pessoas coletivas que utilizem os equipamentos e suportes de armazenamento previstos nas alíneas p) e q) do n.º 3 da tabela anexa à presente lei sem os disponibilizarem a pessoas singulares para uso individual, desde que os equipamentos e suportes sejam parte integrante de sistemas de processos automatizados de gestão documental e de dados que não incluam reproduções de obras protegidas.
-4 - Estão ainda isentos do pagamento das compensações equitativas os aparelhos, dispositivos e suportes destinados à exportação.»
+6 - Estão ainda isentos do pagamento das compensações equitativas os aparelhos, dispositivos e suportes destinados à exportação.»
 
 
 
