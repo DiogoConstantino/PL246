@@ -25,23 +25,35 @@ do de facto o poder de fazer autorizar esses usos da obra ao detentor dos direit
 do Código de Direitos de Autor e Direitos Conexos.
 A Lei n.º 62/98, de 1 de setembro, alterada pela Lei n.º 50/2004, de 24 de agosto, veio criar e regulamentar, à semelhança de outros países europeus, a compensação equitativa relativa à cópia privada.
 Apesar de estar já anunciado publicamente pelas instâncias comunitárias competentes a necessidade de promover, brevemente, a revisão do enquadramento normativo desta matéria, importa neste momento atualizar a tabela de compensação equitativa vigente. Essa atualização deve acompanhar a evolução tecnológica entretanto ocorrida desde a primeira alteração à Lei n.º 62/98, de 1 de setembro, e ter como objetivo garantir que os termos da compensação equitativa são adequados à realidade atual de acordo com a legislação nacional e europeia em vigor.
-A presente proposta de lei, para além de clarificar e alargar o quadro de
-isenções previsto na Lei n.º 62/98, de 1 de setembro, procede à atualização da
-respetiva tabela de compensação equitativa, nela incluindo alguns equipamentos e
-suportes no âmbito da fixação e reprodução digitais que, por excelência, são
-hoje objeto de uma utilização alargada. A atualização da tabela de compensação
+A presente lei, para além de clarificar e alargar o quadro de isenções previsto
+na Lei n.º 62/98, de 1 de Setembro, procede à actualização da respectiva tabela
+de compensação equitativa, nela incluindo alguns equipamentos e suportes no
+âmbito da fixação e reprodução digitais que, por excelência, são hoje
+objecto de uma utilização alargada. A actualização da tabela de compensação
 equitativa prevista na presente proposta de lei teve particularmente em
 consideração os princípios da proporcionalidade e adequação dos montantes em
 relação às utilizações típicas dos diversos equipamentos e suportes, o
 enquadramento e a contextualização da compensação equitativa em relação aos
 montantes praticados nos restantes países da União Europeia, bem como a
 racionalidade desses montantes face ao preço de venda do equipamento ou suporte,
-dando especial atenção à atual conjuntura económica. Procede ainda
-à alteração do Código de Direito de Autore e Direitos Conexos, alterador pela
+dando especial atenção à actual conjuntura económica. Procede ainda
+à alteração do Código de Direito de Autor e Direitos Conexos, alterador pela
 A presente proposta de lei, também resolve de forma eficaz e eficiente, no
 respeito pelo Código de Direitos de Autor e Direitos Conexos, o conflito criado
-pelas Medidas Efetivas de Protecção e as excepções previstas no código aos direitos
-exclusivos dos detentores de direitos. 
+pelas Medidas Efectivas de Protecção e as excepções previstas no código aos direitos
+exclusivos dos detentores de direitos.
+A presente lei, também desambigua o caso dos dispositivos híbridos, que também
+podem ser utilizados como computadores pessoais, tem em conta que só os
+dispositivos com fins exclusivos ou principais devem ser sujeitos ao pagamento
+de compensação.
+São introduzidas regras para a aplicação da tabela de valores da compensação que
+têm em conta realidades da modernidade como a inclusão de software nos
+dispositivos, que necessitam capacidade de armazenamento para existir, para
+operar, para armazenar dados que produz, ou que precisa de consultar e que também
+podem ser alvo de actualizações que requer capacidade adicional de armazenamento.
+É ainda tido em conta as mudanças de utilização dos dispositivos, que tornam os
+utilizadores também em criadores de trabalhos, muitos deles também obras
+protegidas pelo Direito de Autor.
 
 Assim:
 Nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, o Governo apresenta à Assembleia da República a seguinte proposta de lei:
@@ -60,7 +72,7 @@ Os artigos 1.º, 2.º, 3.º e 4.º da Lei n.º 62/98, de 1 de setembro, alterada
 […]
 1 - […].
 2 - O disposto na presente lei não se aplica aos computadores, nem aos
-  dispositivos que sendo hibridos são também criados para ser utilizados como
+  dispositivos que sendo híbridos são também criados para ser utilizados como
   computadores (de acordo com configuração, física ou por software efectuada
   pelo utilizador a cada momento), aos programas de computador, nem às bases de
   dados constituídas por meios informáticos.
@@ -90,6 +102,18 @@ condições forem todas satisfeitas:
 2 - […].
 3 - […].
 4 - No preço da primeira venda ou disponibilização em território nacional e antes da aplicação do IVA em cada um dos aparelhos, dispositivos e suportes analógicos e digitais que permitem a reprodução e armazenagem de obras, é incluído um valor compensatório nos termos da tabela anexa à presente lei e da qual faz parte integrante.
+5 - A aplicação da tabela referida no ponto 4 do presente artigo está sujeita às
+  seguintes regras:
+  a) Só é sujeito a compensação 50% da capacidade de armazenamento dos
+  dispositivos, que incluam software e/ou a capacidade de instalação de
+  software.
+  b) Só é sujeito a compensação 50% da capacidade de armazenamento dos
+  dispositivos, que tenham nas suas funções principais a capacidade de
+  produção e/ou armazemanto de trabalhos próprios do utilizador.
+  c) A cada período de 18 meses da disponibilização inicial para venda ao
+  público de um dispositivo, ao valor máximo aplicável da compensação, só é
+  aplicável 50% do valor da compensação.
+
 
 
 
