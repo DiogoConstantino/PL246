@@ -59,7 +59,11 @@ Os artigos 1.º, 2.º, 3.º e 4.º da Lei n.º 62/98, de 1 de setembro, alterada
 «Artigo 1.º
 […]
 1 - […].
-2 - O disposto na presente lei não se aplica aos computadores, aos seus programas, nem às bases de dados constituídas por meios informáticos.
+2 - O disposto na presente lei não se aplica aos computadores, nem aos
+  dispositivos que sendo hibridos são também criados para ser utilizados como
+  computadores (de acordo com configuração, física ou por software efectuada
+  pelo utilizador a cada momento), aos programas de computador, nem às bases de
+  dados constituídas por meios informáticos.
 
 
 
@@ -247,15 +251,9 @@ i) Discos versáteis RAM (DVD-RAM) – € 0,20/unidade;
 j) Discos Blu-ray – € 0,20/unidade;
 k) Memórias USB - € 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de € 7,5;
 l) Cartões de memória - € 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de € 7,5;
-m) Memórias e discos rígidos integrados em aparelhos com funções de cópia de fonogramas e/ou videogramas – € 0,016 por cada GB de capacidade ou fração, com o limite de € 15;
+m) Memórias e discos rígidos integrados em aparelhos com funções exclusivas, ou
+   principais de cópia de fonogramas e/ou videogramas – € 0,016 por cada GB
+   de capacidade ou fração, com o limite de € 15;
 n) Suportes ou dispositivos de armazenamento, como discos externos denominados «multimédia» ou outros que disponham de uma ou mais saídas ou entradas de áudio e vídeo e que permitam o registo de sons e ou imagens animadas – € 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de € 15;
-o) Memórias e discos rígidos integrados em aparelhos com função de televisor e em aparelhos que assegurem o interface entre o sinal de televisão e o televisor, incluindo os descodificadores ou aparelhos de acesso a serviços de televisão por subscrição, que permitam armazenar sons e imagens animadas – € 0,016 por cada GB de capacidade ou fração, com o limite de € 15;
-p) Memórias ou discos rígidos integrados em computadores que não se incluam na alínea anterior – € 0,004 por cada GB de capacidade ou fração, com o limite de € 7,5;
-q) Discos rígidos internos ou externos que dependam de um computador ou de outros equipamentos ou aparelhos para desempenhar a função de reprodução e que permitam o armazenamento de imagens animadas e sons - € 0,004 por cada GB de capacidade ou fração, com o limite de € 7,5;
-r) Memórias e discos rígidos integrados em aparelhos dedicados à reprodução, leitura e armazenamento de fonogramas, quaisquer obras musicais e outros conteúdos sonoros em formato comprimido – € 0,20 por cada GB de capacidade de armazenamento ou fração, com o limite de € 15;
-s) Memórias e discos rígidos integrados em telefones móveis que permitam armazenar, ouvir obras musicais e ver obras audiovisuais – € 0,12 por cada GB de capacidade de armazenamento ou fração, com o limite de € 15;
-t) Memórias ou discos rígidos integrados em aparelhos tabletes multimédia que disponham de ecrãs tácteis e permitam armazenar obras musicais e audiovisuais - € 0,12 por cada GB de capacidade de armazenamento ou fração, com o limite de € 15.
-
-
 
 3 - Ao mesmo aparelho, dispositivo ou suporte apenas pode ser aplicada uma compensação equitativa ao abrigo de uma das alíneas referidas nos números anteriores, de cuja aplicação resulte o valor mais elevado.» 
