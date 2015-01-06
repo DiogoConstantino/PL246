@@ -3,7 +3,10 @@
 
 Exposição de Motivos
 
-A Diretiva n.º 2001/29/CE, do Parlamento e do Conselho, de 22 de maio de 2001, relativa à harmonização de determinados aspetos dos direitos de autor e conexos na sociedade da informação, permite aos Estados-Membros a escolha de limitações e exceções aos referidos direitos.
+A Diretiva n.º 2001/29/CE, do Parlamento e do Conselho, de 22 de maio de 2001,
+relativa à harmonização de determinados aspetos dos direitos de autor e conexos
+na sociedade da informação, permite aos Estados-Membros a escolha de limitações e
+exceções aos referidos direitos.
 Entre estas, no âmbito do direito de reprodução, figura a cópia privada. A
 referida Diretiva concede amplo espaço de liberdade aos legisladores nacionais
 na conformação normativa da cópia privada, aspeto que tem sido sublinhado pela
@@ -12,40 +15,45 @@ existência de dano significativo para os titulares de direitos, incumbe aos
 Estados preverem a criação de uma compensação equitativa, de acordo com a
 modalidade que for considerada mais ajustada às circunstâncias do caso e aos
 respetivos ambientes tecnológicos.
-A Diretiva n.º 2001/29/CE introduziu ainda um sistema, para permitir aos
-utilizadores das obras protegidas com Medidas Efectivas de Proteção, de
-usufruírem das utilizações Livre incluindo a Cópia Privada. Sendo que o
-referido sistema revelou-se absolutamente ineficaz, por incumprimento dos
-dententores dos Direitos, pela falta de cumprimento e falta de incentivo por
-parte do Estado. Impedindo assim de que os utilizadores legitimos e legais das
-obras, pudessem fazer nos termos do Código de Direitos de Autor e Direitos
-Conexos utilizações livres e cópias para fins exclusivamente privados. Devolven-
-do de facto o poder de fazer autorizar esses usos da obra ao detentor dos direitos,
-à revelia do que éra a intenção do legislador, o espírito da lei e até a letra
-do Código de Direitos de Autor e Direitos Conexos.
-A Lei n.º 62/98, de 1 de setembro, alterada pela Lei n.º 50/2004, de 24 de agosto, veio criar e regulamentar, à semelhança de outros países europeus, a compensação equitativa relativa à cópia privada.
-Apesar de estar já anunciado publicamente pelas instâncias comunitárias competentes a necessidade de promover, brevemente, a revisão do enquadramento normativo desta matéria, importa neste momento atualizar a tabela de compensação equitativa vigente. Essa atualização deve acompanhar a evolução tecnológica entretanto ocorrida desde a primeira alteração à Lei n.º 62/98, de 1 de setembro, e ter como objetivo garantir que os termos da compensação equitativa são adequados à realidade atual de acordo com a legislação nacional e europeia em vigor.
-A presente lei, para além de clarificar e alargar o quadro de isenções previsto
-na Lei n.º 62/98, de 1 de Setembro, procede à actualização da respectiva tabela
-de compensação equitativa, nela incluindo alguns equipamentos e suportes no
-âmbito da fixação e reprodução digitais que, por excelência, são hoje
-objecto de uma utilização alargada. A actualização da tabela de compensação
-equitativa prevista na presente proposta de lei teve particularmente em
-consideração os princípios da proporcionalidade e adequação dos montantes em
-relação às utilizações típicas dos diversos equipamentos e suportes, o
-enquadramento e a contextualização da compensação equitativa em relação aos
-montantes praticados nos restantes países da União Europeia, bem como a
-racionalidade desses montantes face ao preço de venda do equipamento ou suporte,
-dando especial atenção à actual conjuntura económica. Procede ainda
-à alteração do Código de Direito de Autor e Direitos Conexos, alterador pela
-A presente proposta de lei, também resolve de forma eficaz e eficiente, no
-respeito pelo Código de Direitos de Autor e Direitos Conexos, o conflito criado
-pelas Medidas Efectivas de Protecção e as excepções previstas no código aos direitos
-exclusivos dos detentores de direitos.
+
+A Lei n.º 62/98, de 1 de setembro, alterada pela Lei n.º 50/2004, de 24 de
+agosto, veio criar e regulamentar, à semelhança de outros países europeus, a
+compensação equitativa relativa à cópia privada.
+
+A transposição da Diretiva n.º 2001/29/CE, pela lei n.º 50/2004, introduziu
+um sistema, para permitir aos utilizadores das obras protegidas com Medidas
+Efectivas de Proteção, de usufruírem das utilizações Livre incluindo a Cópia
+Privada. No entanto o referido sistema revelou-se absolutamente ineficaz, por
+incumprimento dos dententores dos Direitos, pela falta de cumprimento e falta de
+incentivo por parte do Estado. Impedindo de facto que os utilizadores legitimos e
+legais das obras, pudessem fazer nos termos do Código de Direitos de Autor e
+Direitos Conexos utilizações livres e cópias para fins exclusivamente privados.
+Assim sendo a lei nº 50/2004 introduziu uma contradicção "de facto" com o Código
+de Direitos de Autor e Direitos Conexos porque sempre que os detentores de
+direitos quiserem podem impor a sua vontade e necessidade de autorização para
+que os utilizadores possam usufruír dos direitos que o Código de Direitos de
+Autor e Direitos Conexos concede sem necessidade de autorização dos
+beneficiários dos Direitos de Autor.
+Impõe-se assim a necessidade de excepcionar a protecção legal às Medidas
+Efectivas de Protecção, à sua utilização e aos seus actos preparatórios, para
+que os utilizadores possam usufruír de facto dos seus direitos legais, de forma
+livre, eficaz e eficiente.
+
+Importa manter actualizada a legislação no que toca à tecnologia, modelos de
+negócio e práticas de consumo e usofruto das obras, tendo em conta que está já
+em curso o início do processo que vai levar a uma importante revisão do Direito
+de Autor na União Europeia. Mas garantindo imediatamente mudanças urgentes, para
+que a legislação corrija erros extremamente graves.
+
+A presente lei, clarifica e alargar o quadro de isenções previsto
+na Lei n.º 62/98, de 1 de Setembro e procede à actualização da respectiva tabela
+de compensação equitativa.
+
 A presente lei, também desambigua o caso dos dispositivos híbridos, que também
 podem ser utilizados como computadores pessoais, tem em conta que só os
 dispositivos com fins únicos ou principais devem ser sujeitos ao pagamento
 de compensação.
+
 São introduzidas regras para a aplicação da tabela de valores da compensação que
 têm em conta realidades da modernidade como a inclusão de software nos
 dispositivos, que necessitam capacidade de armazenamento para existir, para
@@ -56,7 +64,8 @@ utilizadores também em criadores de trabalhos, muitos deles também obras
 protegidas pelo Direito de Autor.
 
 Assim:
-Nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, o Governo apresenta à Assembleia da República a seguinte proposta de lei:
+Nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, o Governo
+apresenta à Assembleia da República a seguinte proposta de lei:
 Artigo 1.º
 Objeto
 A presente lei procede à segunda alteração à Lei n.º 62/98, de 1 de setembro,
@@ -65,7 +74,8 @@ Direitos Conexos e altera o mesmo código, nos artigos 219.º, 220.º e 221º e 
 
 Artigo 2.º
 Alteração à Lei n.º 62/98, de 1 de setembro
-Os artigos 1.º, 2.º, 3.º e 4.º da Lei n.º 62/98, de 1 de setembro, alterada pela Lei n.º 50/2004, de 24 de agosto, passam a ter a seguinte redação:
+Os artigos 1.º, 2.º, 3.º e 4.º da Lei n.º 62/98, de 1 de setembro, alterada pela
+Lei n.º 50/2004, de 24 de agosto, passam a ter a seguinte redação:
 
 
 «Artigo 1.º
@@ -81,9 +91,12 @@ Os artigos 1.º, 2.º, 3.º e 4.º da Lei n.º 62/98, de 1 de setembro, alterada
 
 Artigo 2.º
 […]
-Com vista a beneficiar os autores, os artistas intérpretes ou executantes, os editores e os produtores fonográficos e videográficos, uma quantia é incluída no preço de venda ou disponibilização:
-a) De todos e quaisquer aparelhos que permitam a fixação de obras como finalidade única ou principal;
-b) […].
+Com vista a beneficiar os autores, os artistas intérpretes ou executantes, os
+editores e os produtores fonográficos e videográficos, uma quantia é incluída
+no preço de venda ou disponibilização:
+ a) De todos e quaisquer aparelhos que permitam a fixação de obras como
+ finalidade única ou principal;
+ b) […].
 
 
 
@@ -101,7 +114,11 @@ condições forem todas satisfeitas:
  detentor dos direitos.
 2 - […].
 3 - […].
-4 - No preço da primeira venda ou disponibilização em território nacional e antes da aplicação do IVA em cada um dos aparelhos, dispositivos e suportes analógicos e digitais que permitem a reprodução e armazenagem de obras, é incluído um valor compensatório nos termos da tabela anexa à presente lei e da qual faz parte integrante.
+4 - No preço da primeira venda ou disponibilização em território nacional e antes
+da aplicação do IVA em cada um dos aparelhos, dispositivos e suportes analógicos
+e digitais que permitem a reprodução e armazenagem de obras, é incluído um valor
+compensatório nos termos da tabela anexa à presente lei e da qual faz parte
+integrante.
 5 - A aplicação da tabela referida no ponto 4 do presente artigo está sujeita às
   seguintes regras:
   a) Só é sujeito a compensação 50% da capacidade de armazenamento dos
@@ -171,7 +188,8 @@ plataforma electrónica na "World Wide Web" para:
  d) a consulta por parte da pessoa colectiva colectora e gestora da compensação,
  das transacções isentas registadas pelos comerciantes;
 
-6 - Estão ainda isentos do pagamento das compensações equitativas os aparelhos, dispositivos e suportes destinados à exportação.»
+6 - Estão ainda isentos do pagamento das compensações equitativas os aparelhos,
+dispositivos e suportes destinados à exportação.»
 
 
 
@@ -183,11 +201,13 @@ Contribuição para o desenvolvimento da atividade cultural
 1 - A partir de 2015, em cada ano civil, 50% do montante da compensação equitativa
 cobrado pela pessoa coletiva responsável pela cobrança e gestão das quantias
 previstas na presente lei.
-2 - A pessoa coletiva responsável deve proceder à transferência do referido montante para o Fundo de Fomento Cultural com periodicidade trimestral.»
+2 - A pessoa coletiva responsável deve proceder à transferência do referido
+montante para o Fundo de Fomento Cultural com periodicidade trimestral.»
 
 Artigo 4.º
 Aditamento de anexo à Lei n.º 62/98, de 1 de setembro
-É aditado à Lei n.º 62/98, de 1 de setembro, o anexo com a redação constante do anexo à presente lei, da qual faz parte integrante.
+É aditado à Lei n.º 62/98, de 1 de setembro, o anexo com a redação constante
+do anexo à presente lei, da qual faz parte integrante.
 
 
 Artigo 5.º
