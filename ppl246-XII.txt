@@ -180,7 +180,9 @@ Aditamento à Lei n.º 62/98, de 1 de setembro
 É aditado à Lei n.º 62/98, de 1 de setembro, o artigo 5.º-A, com a seguinte redação:
 «Artigo 5.º-A
 Contribuição para o desenvolvimento da atividade cultural
-1 - A partir de 2015, em cada ano civil, caso o montante da compensação equitativa cobrado pela pessoa coletiva responsável pela cobrança e gestão das quantias previstas na presente lei seja superior a 15 milhões de euros, o montante superior a esse valor constitui receita própria do Fundo de Fomento Cultural.
+1 - A partir de 2015, em cada ano civil, o montante da compensação equitativa
+cobrado pela pessoa coletiva responsável pela cobrança e gestão das quantias
+previstas na presente lei.
 2 - A pessoa coletiva responsável deve proceder à transferência do referido montante para o Fundo de Fomento Cultural com periodicidade trimestral.»
 
 Artigo 4.º
