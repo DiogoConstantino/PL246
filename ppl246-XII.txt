@@ -44,7 +44,7 @@ pelas Medidas Efectivas de Protecção e as excepções previstas no código aos
 exclusivos dos detentores de direitos.
 A presente lei, também desambigua o caso dos dispositivos híbridos, que também
 podem ser utilizados como computadores pessoais, tem em conta que só os
-dispositivos com fins exclusivos ou principais devem ser sujeitos ao pagamento
+dispositivos com fins únicos ou principais devem ser sujeitos ao pagamento
 de compensação.
 São introduzidas regras para a aplicação da tabela de valores da compensação que
 têm em conta realidades da modernidade como a inclusão de software nos
@@ -120,42 +120,44 @@ condições forem todas satisfeitas:
 Artigo 4.º
 […]
 1 - Devem pagamento da compensação equitativa prevista na presente lei as
-  exclusivamente as pessoas singulares, quando compram equipamentos e suportes
+  exclusivamente as pessoas singulares Direito Privado, quando compram equipamentos e suportes
   referidos em tabela aditata à Lei n.º 62/98, onde é incluido também o valor a
   compensar.
-2 - Não devem qualquer compensação todas as pessoas de Direito Público.
-3 - Estão isentas do pagamento da compensação equitativa, as pessoas singulares,
+2 - Estão isentas do pagamento da compensação equitativa, as pessoas singulares,
   nas seguintes condições:
 a) Cujo objeto de atividade seja a comunicação audiovisual ou produção de
-fonogramas e de videogramas, exclusivamente para as suas próprias produções;
-b) Para fins profissionais, quando se destinar exclusivamente ao armazenamento
-de dados próprios.
-d) Suportes especialmente destinados a fixação de imagens ou outro tipo de obras
-para uso exclusivo no âmbito da atividade profissional do respetivo autor,
-designadamente na atividade de fotógrafo, designer, arquitetura, engenharia,
-técnicos, assim como profissões artísticas devidamente enquadradas pelo código de
-atividade económica;
-e) Aparelhos, dispositivos ou suportes destinados exclusivamente para fins
-clínicos, fins de investigação científica e para as missões públicas da
-defesa, da justiça e das áreas da segurança interna, bem como dos
-utilizados para garantia da acessibilidade por pessoas com deficiência;
+  fonogramas e de videogramas, única ou principalmente para as suas próprias
+  produções;
+b) Para fins profissionais, quando se destinar única ou principalmente ao
+  armazenamento de dados próprios.
+c) Cuja atividade principal seja a salvaguarda do património cultural móvel e
+  imóvel;
+d) Suportes destinados únicamente ou principalmente a fixação de imagens ou outro
+  tipo de obras para uso único, ou principal no âmbito da atividade profissional
+  do respetivo autor, designadamente na atividade de fotógrafo, designer,
+  arquitetura, engenharia, técnicos, assim como profissões artísticas devidamente
+  enquadradas pelo código de atividade económica;
+e) Aparelhos, dispositivos ou suportes destinados única ou principalmente para
+  fins clínicos, fins de investigação científica, da educação, da justiça, bem
+  como dos utilizados para garantia da acessibilidade por pessoas com deficiência;
 f) Os cidadãos nacionais, ou estrangeiros, que apresentem à Inspecção Geral de
-Actividades Culturais, provas de regulares depósitos de obras feitos na
-Inspecção Geral de Actividades Culturais, ou de quaisquer entidades de gestão
-colectiva de direitos de autor e direitos conexos;
+  Actividades Culturais, provas de regulares depósitos de obras feitos na
+  Inspecção Geral de Actividades Culturais, ou de quaisquer entidades de gestão
+  colectiva de direitos de autor e direitos conexos;
 g) - Estão isentos todos os requerem junto da Inspecção Geral de Actividades
-Culturais, a isenção pelo motivo de renunciarem ao direito de fazer cópias para
-fins privados, em condições que de acordo com a Lei exijam a compensação
-equitativa, pelo motivo de não ter ocorrido:
- 1. compensação de outra forma;
- 2. dispensa de compensação pelo detentor dos direitos;
+  Culturais, a isenção pelo motivo de renunciarem ao direito de fazer cópias para
+  fins privados, em condições que de acordo com a Lei exijam a compensação
+  equitativa, pelo motivo de ter ocorrido:
+  1. compensação de outra forma;
+  2. dispensa de compensação pelo detentor dos direitos;
 
 4 - Para os efeitos do disposto no número anterior, as pessoas coletivas
 não necessitam de requerer qualquer documento, ou comprovativo de isenção,
-sendo suficiente, qualquer documento que comprove que se trata de uma pessoa
-coletiva. As pessoas singulares adquirentes devem, requerer junto da Inspecção
-Geral de Actividades Culturais, através de plataforma electrónica disponível
-publicamente (na "World Wide Web") a situação de isenção.
+sendo suficiente, qualquer documento oficial que comprove que se trata de uma
+pessoa coletiva, ou pessoa singular com actividade profissional na pessoa
+singular. Alternativamente as pessoas singulares adquirentes devem, requerer
+junto da Inspecção Geral de Actividades Culturais, através de plataforma
+electrónica disponível publicamente (na "World Wide Web") a situação de isenção.
 
 5 - A Inspecção Geral de Actividades Culturais, deve disponibilizar uma
 plataforma electrónica na "World Wide Web" para:
@@ -257,27 +259,37 @@ ANEXO
 (a que se refere o n.º 4 do artigo 3.º)
 Tabela de compensação equitativa
 1 - Aparelhos, equipamentos e instrumentos técnicos de reprodução: 
-a) Equipamentos multifunções ou fotocopiadoras jacto de tinta – € 5/unidade;
+a) Equipamentos multifunções ou fotocopiadoras jacto de
+   tinta – € 0,1/unidade;
 b) Equipamentos multifunções ou fotocopiadoras laser:
-Até 40 páginas por minuto – € 10/unidade; 
-Mais de 40 páginas por minuto – € 20/unidade; 
-c) Scanners e outros equipamentos destinados apenas à digitalização - € 2/unidade;
-d) Impressoras jacto de tinta – € 2,5/unidade;
-e) Impressoras laser – € 7,5/unidade.
+   Até 40 páginas por minuto – € 0,01/unidade; 
+   Mais de 40 páginas por minuto – € 0.1/unidade; 
+c) Scanners e outros equipamentos destinados apenas à
+   digitalização - € 0,1/unidade;
+d) Impressoras jacto de tinta – € 0,1/unidade;
+e) Impressoras laser – € 0,1/unidade.
 2 - Aparelhos, dispositivos e suportes:
-2.1 - Equipamentos e aparelhos digitais que compreendam as seguintes funções e não tenham incluídas memórias ou discos rígidos: 
-c) Gravadores mistos de discos compactos (CD e DVD) - € 3/unidade;
-d) Gravadores de discos Blu-ray - € 3/unidade.
+2.1 - Equipamentos e aparelhos digitais que compreendam as seguintes funções e
+   não tenham incluídas memórias ou discos rígidos: 
+c) Gravadores mistos de discos compactos (CD e DVD) - € 0,1/unidade;
+d) Gravadores de discos Blu-ray - € 0,1/unidade.
 2.3 - Suportes e dispositivos de armazenamento:
-g) Discos versáteis não regraváveis (DVD-R) - € 0,10/unidade;
-h) Discos versáteis regraváveis (DVD-RW) - € 0,20/unidade;
-i) Discos versáteis RAM (DVD-RAM) – € 0,20/unidade;
-j) Discos Blu-ray – € 0,20/unidade;
-k) Memórias USB - € 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de € 7,5;
-l) Cartões de memória - € 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de € 7,5;
-m) Memórias e discos rígidos integrados em aparelhos com funções exclusivas, ou
-   principais de cópia de fonogramas e/ou videogramas – € 0,016 por cada GB
-   de capacidade ou fração, com o limite de € 15;
-n) Suportes ou dispositivos de armazenamento, como discos externos denominados «multimédia» ou outros que disponham de uma ou mais saídas ou entradas de áudio e vídeo e que permitam o registo de sons e ou imagens animadas – € 0,016 por cada GB de capacidade de armazenamento ou fração, com o limite de € 15;
+g) Discos versáteis não regraváveis (DVD-R) - € 0,01/unidade;
+h) Discos versáteis regraváveis (DVD-RW) - € 0,01/unidade;
+i) Discos versáteis RAM (DVD-RAM) – € 0,01/unidade;
+j) Discos Blu-ray – € 0,01/unidade;
+k) Memórias USB - € 0,01 por cada GB de capacidade de armazenamento ou
+   fração, com o limite de € 0,5;
+l) Cartões de memória - € 0,01 por cada GB de capacidade de armazenamento ou
+   fração, com o limite de € 0,5;
+m) Memórias e discos rígidos integrados em aparelhos com funções únicas ou
+   principais de cópia de fonogramas e/ou videogramas – € 0,01 por cada GB
+   de capacidade ou fração, com o limite de € 1;
+n) Suportes ou dispositivos de armazenamento, como discos externos denominados
+   «multimédia» ou outros que disponham de uma ou mais saídas ou entradas de áudio
+   e vídeo e que permitam o registo de sons e ou imagens animadas – € 0,01 por
+   cada GB de capacidade de armazenamento ou fração, com o limite de € 1;
 
-3 - Ao mesmo aparelho, dispositivo ou suporte apenas pode ser aplicada uma compensação equitativa ao abrigo de uma das alíneas referidas nos números anteriores, de cuja aplicação resulte o valor mais elevado.» 
+3 - Ao mesmo aparelho, dispositivo ou suporte apenas pode ser aplicada uma
+   compensação equitativa ao abrigo de uma das alíneas referidas nos números
+   anteriores, de cuja aplicação resulte o valor mais elevado.» 
