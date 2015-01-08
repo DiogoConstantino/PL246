@@ -73,7 +73,7 @@ proprietário do dispositivo e que é um acto comum e normal que os proprietári
 criem obras com uma frequência diária e que esta actividade criativa, cultural e
 de expressão pessoal, é protegida pelo Direito de Autor e também deve ser
 incentivada e reconhecida como um direito e não ser alvo de taxação ou de um
-tratamento injustificadamente diferenciado.
+tratamento injustificadamente e injustamente diferenciado.
 
 Assim:
 Nos termos da alínea d) do n.º 1 do artigo 197.º da Constituição, o Governo
@@ -94,36 +94,40 @@ Lei n.º 50/2004, de 24 de agosto, passam a ter a seguinte redação:
 […]
 1 - […].
 2 - O disposto na presente lei não se aplica aos computadores, nem aos
-  dispositivos que sendo híbridos são também criados para ser utilizados como
+  dispositivos que sendo híbridos, são também criados para ser utilizados como
   computadores (de acordo com configuração, física ou por software efectuada
   pelo utilizador a cada momento), aos programas de computador, nem às bases de
   dados constituídas por meios informáticos.
 
 
 
-Artigo 2.º
-[…]
-Com vista a beneficiar os autores, os artistas intérpretes ou executantes, os
+Artigo 2.º Compensação devida pela reprodução ou gravação de obras
+1 - Com vista a beneficiar os autores, os artistas intérpretes ou executantes, os
 editores e os produtores fonográficos e videográficos, uma quantia é incluída
-no preço de venda ou disponibilização:
- a) De todos e quaisquer aparelhos que permitam a fixação de obras como
+incluída no preços de venda ou disponibilização uma quantia, quando justificado
+pela prova da existência evidênciada de prejuízo significativo:
+ a) De todos e quaisquer aparelhos que permitam a fixação de obras com
  finalidade única ou principal;
- b) […].
+ b) [...]
+2 - De forma a garantir a justiça e a identificar em cada momento a nessecidade de
+compensação, o Governo deve promover com a regularidade de dois anos estudos que
+identifiquem, caracterizem e meçam os benefícios e prejuízos causados pela Cópia
+Privada, que permitam medir o resultado do balanço entre eles de forma a definir a
+cada momento a necessida de compensar danos e em que medida. Com base no
+resultado da análise destes estudos o Governo deve propor actualizações da tabela
+referida no ponto n.º 3 do artigo 3º.
 
 
 
 Artigo 3.º
-Compensação equitativa
-1 - A quantia referida no artigo anterior tem a natureza de compensação
-equitativa, visando compensar adequadamente os titulares de direitos dos danos
-patrimoniais sofridos com a prática da cópia privada. Quando as seguintes
-condições forem todas satisfeitas:
- a) os danos existirem comprovadamente, com base estudo que os identifique
- caracterize quantifique;
- b) os benefícios da cópia forem identificados, caracterizados e quantifique
- os benefícios;
- c) o resultado do balanço entre os benefícios e danos, for prejudicial ao
- detentor dos direitos.
+Compensação
+1 - A quantia referida no artigo anterior depende dos resultados do balanços
+encontrados entre benefícios e prejuízos encontrados pelos estudos referidos no
+mesmo artigo e não devem prejudicar a competitividade de outros sectores da
+economia, ou a capacidade da generalidade da população de beneficiar da Socidade
+de Informação e a sua própria liberdade expressão cultural, nem ser um obstáculo
+ao incentivo a modelos de negócio que permitam obter justa compensação de outras
+formas.
 2 - […].
 3 - […].
 4 - No preço da primeira venda ou disponibilização em território nacional e antes
@@ -131,12 +135,12 @@ da aplicação do IVA em cada um dos aparelhos, dispositivos e suportes analógi
 e digitais que permitem a reprodução e armazenagem de obras, é incluído um valor
 compensatório nos termos da tabela anexa à presente lei e da qual faz parte
 integrante.
-5 - A aplicação da tabela referida no ponto 4 do presente artigo está sujeita às
-  seguintes regras:
-  a) Só é sujeito a compensação 50% da capacidade de armazenamento dos
+5 - A aplicação da tabela referida no ponto n.º 3 do presente artigo está
+limitada pela aplicaçao das condições:
+  a) De só ser sujeito a compensação, 50% da capacidade de armazenamento dos
   dispositivos, que incluam software e/ou a capacidade de instalação de
   software.
-  b) Só é sujeito a compensação 50% da capacidade de armazenamento dos
+  b) De só ser sujeito a compensação 50% da capacidade de armazenamento dos
   dispositivos, que tenham nas suas funções principais a capacidade de
   produção e/ou armazemanto de trabalhos próprios do utilizador.
   c) A cada período de 18 meses da disponibilização inicial para venda ao
@@ -149,9 +153,9 @@ integrante.
 Artigo 4.º
 […]
 1 - Devem pagamento da compensação equitativa prevista na presente lei as
-  exclusivamente as pessoas singulares Direito Privado, quando compram equipamentos e suportes
-  referidos em tabela aditata à Lei n.º 62/98, onde é incluido também o valor a
-  compensar.
+  exclusivamente as pessoas singulares Direito Privado, quando compram
+  equipamentos e suportes referidos em tabela aditata à Lei n.º 62/98, onde é
+  incluido também o valor a compensar.
 2 - Estão isentas do pagamento da compensação equitativa, as pessoas singulares,
   nas seguintes condições:
 a) Cujo objeto de atividade seja a comunicação audiovisual ou produção de
