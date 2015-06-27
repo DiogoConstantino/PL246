@@ -1,6 +1,8 @@
 PL246
 =====
 
+A proposta governamental foi alterada :(
+
 Embora os esforços para que os partidos votem contra, ou abondonem a PL 246,
 devam continuar (escrevam aos deputados, por favor), pode ser necessário iniciar
 uma estratégia paralela de controlo de danos, ou que contribua para
